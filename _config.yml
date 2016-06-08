@@ -1,7 +1,6 @@
 permalink: pretty
 highlighter: rouge
 url: https://codeforamerica.github.io/playbook/
-
 collections:
   - plays
 
