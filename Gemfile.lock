@@ -130,6 +130,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   bourbon (~> 4.0.2)
   github-pages (~> 82)
   neat (~> 1.6.0)
@@ -137,3 +138,9 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.12.4
+=======
+  bourbon
+  github-pages (~> 82)
+  neat
+  sass
+>>>>>>> bump github-pages version to get new jekyll, and update plays to avoid id namespace
