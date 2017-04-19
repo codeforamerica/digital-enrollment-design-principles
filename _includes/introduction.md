@@ -1,6 +1,5 @@
 # Design Principles for Digital Enrollment
 
-
 <small>The Vision</small>
 ## A simple, respectful and relevant digital experience for every person seeking government assistance in a time of need, in all 50 states.
 <br></br>
@@ -35,7 +34,7 @@ These principles are informed by rigorous research into the behaviors and needs 
 
 ## How to use the design principles
 
-The principles in this playbook are intended to help state and local safety net eligibility and enrollment teams frame, approach and design their digital enrollment systems.  It is focused primarily on the digital interface for an online multi-benefit application -- though its tenants can be applied to individual programs as well. 
+The principles in this playbook are intended to help state and local safety net eligibility and enrollment teams frame, approach and design their digital enrollment systems.  It is focused primarily on the digital interface for an online multi-benefit application -- though its tenants can be applied to individual programs as well.
 
-This guide is designed to be used in partnership with current and future contractors who may be supporting the development of these systems.  We encourage state leaders to make use of this tool when scoping new efforts, evaluating existing work, and procuring new services. Share it widely with your teams. 
+This guide is designed to be used in partnership with current and future contractors who may be supporting the development of these systems.  We encourage state leaders to make use of this tool when scoping new efforts, evaluating existing work, and procuring new services. Share it widely with your teams.
 
