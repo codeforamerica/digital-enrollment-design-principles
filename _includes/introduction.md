@@ -1,4 +1,5 @@
-<h6 style="margin-bottom: 0;">The Digital Safety Net Partnership | Confidential Draft</h6>
+<h6 style="margin-bottom: 0;">The Digital Safety Net Partnership |CONFIDENTIAL DRAFT NOT FOR CIRCULATION</h6>
+
 # Design Principles for Digital Enrollment
 
 ## Toward a simple, respectful and relevant digital experience for every person seeking government assistance in a time of need, in all 50 states.

@@ -34,7 +34,6 @@
 <div id="introduction">
   <div class="outer_container">
     <div class="inner_container">
-<<<<<<< HEAD
 <!--       <a id="usds_logo" href="http://whitehouse.gov/digital/united-states-digital-service" title="Link to the United States Digital Service"><img src='{{site.baseurl}}/assets/images/USDS-logo-rays-transparent.png' alt="Logo of the United States Digital Service"></a>
  -->  {% capture introduction %}{% include introduction.md %}{% endcapture %}
       {{ introduction | markdownify }}
@@ -71,11 +70,8 @@
   {% for play in site.plays %}
     <div class="inner_container">
       <a class="anchor_offset" id="play{{ play.play_number }}"></a>
-<<<<<<< HEAD
       <h6>PRINCIPLE {{ play.play_number }}</h6>
-=======
       <h6>PLAY {{ play.play_number }}</h6>
->>>>>>> bump github-pages version to get new jekyll, and update plays to avoid id namespace
       <h2 class="display">{{ play.title }}</h2>
 
       {{ play.output }}
