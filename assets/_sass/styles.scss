@@ -193,6 +193,14 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       background: $white;
       color: $atlantic_blue;
     }
+    ol {
+      list-style-image: url("../images/bullet-sq.svg");
+      margin-top: 0px;
+    }
+    li {
+      color: white;
+      font-weight: 200;
+    }
 
     #usds_logo {
       display: inline-block;
