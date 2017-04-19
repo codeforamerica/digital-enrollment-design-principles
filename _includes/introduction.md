@@ -1,8 +1,8 @@
+<h6 style="margin-bottom: 0;">The Digital Safety Net Partnership | Confidential Draft</h6>
+
 # Design Principles for Digital Enrollment
 
-<small>The Vision</small>
-## A simple, respectful and relevant digital experience for every person seeking government assistance in a time of need, in all 50 states.
-<br></br>
+## Toward a simple, respectful and relevant digital experience for every person seeking government assistance in a time of need, in all 50 states.
 
 ## The Challenge
 Somewhere between 15 - 40% of people who are eligible to enroll in programs like SNAP, Medicaid and TANF are not participating in these programs,  due in large part to the onerous application, enrollment and renewal processes. People seeking to enroll in government safety net programs are met with frustrating digital tools,  confusing communications, and poor in-person experiences.
