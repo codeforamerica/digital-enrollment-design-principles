@@ -1,4 +1,4 @@
-<h6 style="margin-bottom: 0;">The Digital Safety Net Partnership |CONFIDENTIAL DRAFT NOT FOR CIRCULATION</h6>
+<h6 style="margin-bottom: 0;">The Digital Safety Net Partnership | CONFIDENTIAL DRAFT NOT FOR CIRCULATION</h6>
 
 # Design Principles for Digital Enrollment
 
